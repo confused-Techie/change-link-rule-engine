@@ -1,0 +1,19 @@
+{
+  "name": "change-link-rule-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest tests"
+  },
+  "keywords": [],
+  "author": "confused-Techie",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^6.0.0",
+    "glob": "^11.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
